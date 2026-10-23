@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/silas.jpg" width="128" alt="Silas Godoy" />
-
 ### Silas Godoy
 
 <code>sigods</code>
