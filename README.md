@@ -55,8 +55,5 @@ The interesting part has never been getting it to boot — it's the three days o
 
 <div align="center">
 
-**[github.com/sigods](https://github.com/sigods)** · **[email](mailto:you@example.com)** · **[website](https://example.com)**
-
-<sub>Everything here is built from public documentation, a lot of patience, and code I wrote myself.</sub>
-
+**[github.com/sigods](https://github.com/sigods)** · **[email](mailto:sigods@proton.me)** · **[website](https:/sigods.github.io)**
 </div>
